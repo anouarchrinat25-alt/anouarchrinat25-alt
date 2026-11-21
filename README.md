@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Salut, je suis Anouar CHRINAT
 
-<!--
-**anouarchrinat25-alt/anouarchrinat25-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en DUT **GRS** (Gestion des Réseaux & Sécurité) à l'ESTO Oujda.
 
-Here are some ideas to get you started:
+## 🛠️ Compétences
+- **Réseaux :** IPv4/IPv6 · DHCP · DNS · NAT/PAT · VLAN · ACL · Cisco IOS · Packet Tracer
+- **Serveurs :** Web Server · DHCP Server · DNS Server · Mail Server · FTP Server
+- **Sécurité :** ACL · sécurisation des services réseau
+- **Programmation :** Python · C · PHP
+- **Bases de données :** SQL
+- **Outils :** Git · GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Projets
+- 🌐 Réseaux informatiques
+- 🖥️ Technologies serveur
+- 🔒 Sécurité
+- 🐍 Projets Python
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/anouar-chrinat-6b05b6400) · anouar.chrinat25@ump.ac.ma
